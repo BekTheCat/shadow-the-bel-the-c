@@ -36,7 +36,7 @@ jobs:
           echo test, and deploy your project.
 
 <script>
-    console.log("Welcome to my website!");
+    console.log("i am suffering!");
 </script>
 body {
     font-family: Arial, sans-serif;
